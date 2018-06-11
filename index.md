@@ -7,3 +7,7 @@ The idea is to give players a dedicated mobile application that allows them to q
 # Screenshots
 
 ![alt](http://puu.sh/AD7xT/551836fc9a.jpg)
+
+![alt](http://puu.sh/AD7Ad/c4e0f47638.jpg)
+
+![alt](http://puu.sh/AD7AD/0d40e5ea0b.jpg)
