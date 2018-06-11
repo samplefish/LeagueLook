@@ -4,4 +4,6 @@ League Look is a simple application that allows users to search any player to pu
 
 The idea is to give players a dedicated mobile application that allows them to quickly find information of a player and the game the player is playing. I used the API methods of: Summoner-V3, Spectator-V3, and League-V3.
 
-# Space.
+# Screenshots
+
+![alt](http://puu.sh/AD7xT/551836fc9a.jpg)
